@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,OACE,kBACF,CAEA,YACE,kBACF,CAEA,OACE,eACF","file":"style.c2b09ff6.css","sourceRoot":"..\\src","sourcesContent":[".group {\n  margin-bottom: 20px;\n}\n\n.form-input {\n  margin-bottom: 10px;\n}\n\n.check {\n  margin-bottom: 0;\n}\n"]}
